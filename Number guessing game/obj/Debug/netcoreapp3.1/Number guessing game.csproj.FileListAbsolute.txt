@@ -1,0 +1,13 @@
+/home/nenad/RiderProjects/Number guessing game/Number guessing game/obj/Debug/netcoreapp3.1/Number guessing game.csprojAssemblyReference.cache
+/home/nenad/RiderProjects/Number guessing game/Number guessing game/obj/Debug/netcoreapp3.1/Number guessing game.AssemblyInfoInputs.cache
+/home/nenad/RiderProjects/Number guessing game/Number guessing game/obj/Debug/netcoreapp3.1/Number guessing game.AssemblyInfo.cs
+/home/nenad/RiderProjects/Number guessing game/Number guessing game/obj/Debug/netcoreapp3.1/Number guessing game.csproj.CoreCompileInputs.cache
+/home/nenad/RiderProjects/Number guessing game/Number guessing game/bin/Debug/netcoreapp3.1/Number guessing game
+/home/nenad/RiderProjects/Number guessing game/Number guessing game/bin/Debug/netcoreapp3.1/Number guessing game.deps.json
+/home/nenad/RiderProjects/Number guessing game/Number guessing game/bin/Debug/netcoreapp3.1/Number guessing game.runtimeconfig.json
+/home/nenad/RiderProjects/Number guessing game/Number guessing game/bin/Debug/netcoreapp3.1/Number guessing game.runtimeconfig.dev.json
+/home/nenad/RiderProjects/Number guessing game/Number guessing game/bin/Debug/netcoreapp3.1/Number guessing game.dll
+/home/nenad/RiderProjects/Number guessing game/Number guessing game/bin/Debug/netcoreapp3.1/Number guessing game.pdb
+/home/nenad/RiderProjects/Number guessing game/Number guessing game/obj/Debug/netcoreapp3.1/Number guessing game.dll
+/home/nenad/RiderProjects/Number guessing game/Number guessing game/obj/Debug/netcoreapp3.1/Number guessing game.pdb
+/home/nenad/RiderProjects/Number guessing game/Number guessing game/obj/Debug/netcoreapp3.1/Number guessing game.genruntimeconfig.cache
